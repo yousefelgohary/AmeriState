@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🇺🇸 AmeriState</h1>
+  <h1>AmeriState</h1>
   <p><strong>AI-Powered US Real Estate Valuation & Market Analytics Platform</strong></p>
 </div>
 
