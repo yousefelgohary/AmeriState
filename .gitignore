@@ -1,0 +1,13 @@
+.venv
+venv/
+env/
+__pycache__/
+*.pyc
+.streamlit/
+.gemini/
+models/*.pkl
+dataset/*.csv
+# Note: models and datasets should ideally be tracked with DVC or lfs if they are large, but for this project we'll allow them if needed, or ignore them if we want a clean code repo.
+# Actually, the user might want the models and data to be pushed so the app can run immediately on clone. Let's ONLY ignore python cache and gemini data.
+!models/*.pkl
+!dataset/*.csv
