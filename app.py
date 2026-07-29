@@ -49,7 +49,7 @@ df = load_data()
 model, scaler = load_model_and_scaler()
 
 # Application Header
-st.title("🇺🇸 AmeriState")
+st.title("AmeriState")
 st.markdown("**AI-Powered US Real Estate Valuation & Market Analytics Platform**")
 st.markdown("---")
 
