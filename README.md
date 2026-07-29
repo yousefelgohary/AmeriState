@@ -1,7 +1,7 @@
 <div align="center">
   
   # 🏢 AmeriState
-  ### US Real Estate Valuation Powered by Multiple Linear Regression
+  ### US Real Estate Valuation Powered by Multiple Linear Regression Model
 
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
