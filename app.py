@@ -50,7 +50,7 @@ model, scaler = load_model_and_scaler()
 
 # Application Header
 st.title("AmeriState")
-st.markdown("**AI-Powered US Real Estate Valuation & Market Analytics Platform**")
+st.markdown("**AI-Powered US Real Estate Valuation Platform (Powered by Multiple Linear Regression)**")
 st.markdown("---")
 
 # Navigation Tabs
@@ -92,6 +92,7 @@ with tab1:
 
 with tab2:
     st.header("Model Evaluation & Diagnostics")
+    st.markdown("*Core Algorithm: **Multiple Linear Regression***")
     
     if model is not None and scaler is not None:
         # Generate predictions on the entire dataset for evaluation

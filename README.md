@@ -1,7 +1,7 @@
 <div align="center">
   
   # 🏢 AmeriState
-  ### AI-Powered US Real Estate Valuation & Market Analytics Platform
+  ### US Real Estate Valuation Powered by Multiple Linear Regression
 
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -14,7 +14,7 @@
 </div>
 
 ## 📖 Overview
-**AmeriState** is a professional-grade, intelligent PropTech application built to accurately predict and estimate the market value of residential real estate across the United States. 
+**AmeriState** is a professional-grade, intelligent PropTech application built to accurately predict and estimate the market value of residential real estate across the United States using a robust **Multiple Linear Regression** algorithm. 
 
 By leveraging advanced Machine Learning algorithms (Multiple Linear & Polynomial Regression), AmeriState processes critical property specifications—such as square footage, neighborhood quality, and house age—to deliver instantaneous, data-driven valuations. This tool empowers Real Estate Analysts, Investors, and prospective homebuyers with a deep, transparent view into market trends.
 
